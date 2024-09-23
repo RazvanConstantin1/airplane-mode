@@ -132,6 +132,10 @@ input[type="checkbox"] {
   padding: 3.2rem 0;
 }
 
+.all-packed {
+  background-color: #00cc00;
+}
+
 @media (max-width: 1070px) {
   h1 {
     font-size: 4rem;

@@ -9,11 +9,15 @@ const Stats = ({ items }) => {
   const percentage = Math.round((numPacked / numItems) * 100);
 
   return (
-    <footer className="stats">
-      <em>
-        You have {numItems} items on your list and you already packed{" "}
-        {numPacked} of them ({percentage}%)
-      </em>
+    <footer className={percentage === 100 ? "all-packed stats" : "stats"}>
+      {percentage === 100 ? (
+        <em>You've packed everything, enjoy your vacation ! 💼</em>
+      ) : (
+        <em>
+          You have {numItems} items on your list and you already packed{" "}
+          {numPacked} of them ({percentage}%)
+        </em>
+      )}
     </footer>
   );
 };
