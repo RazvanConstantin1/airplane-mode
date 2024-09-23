@@ -2,9 +2,9 @@ Airplane Mode is a user-friendly tool designed to help you organize and pack eff
 
 Key features include:
 
-Add Items: Easily input item names and quantities to your packing list.
-Mark as Packed: Use checkboxes to mark items as packed, visually indicated with a line-through effect.
-Delete Items: Remove individual items from the list when no longer needed.
-Sorting Options: Sort your list by input order, packed status, or alphabetically by item description.
-Persistent Data: The app saves your list in local storage, ensuring your items remain between page refreshes.
-Perfect for keeping your packing organized, whether you’re traveling for a weekend getaway or a long adventure!
+Add Items: Easily input item names and quantities to your packing list. <br/>
+Mark as Packed: Use checkboxes to mark items as packed, visually indicated with a line-through effect. <br/>
+Delete Items: Remove individual items from the list when no longer needed. <br/>
+Sorting Options: Sort your list by input order, packed status, or alphabetically by item description. <br/>
+Persistent Data: The app saves your list in local storage, ensuring your items remain between page refreshes. <br/>
+Perfect for keeping your packing organized, whether you’re traveling for a weekend getaway or a long adventure! <br/>
