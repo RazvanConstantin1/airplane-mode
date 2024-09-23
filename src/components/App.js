@@ -21,6 +21,10 @@ function App() {
     );
   }
 
+  function handleClearItems() {
+    setItems([]);
+  }
+
   function handleDeleteItem(id) {
     setItems((items) => items.filter((item) => item.id !== id));
   }
@@ -33,6 +37,7 @@ function App() {
         items={items}
         onToggleItem={handleToggleItem}
         onDeleteItem={handleDeleteItem}
+        onClearItems={handleClearItems}
       />
       <Stats items={items} />
     </div>
