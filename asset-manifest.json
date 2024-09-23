@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/airplane-mode/static/css/main.d215d301.css",
+    "main.js": "/airplane-mode/static/js/main.b80f3897.js",
+    "index.html": "/airplane-mode/index.html",
+    "main.d215d301.css.map": "/airplane-mode/static/css/main.d215d301.css.map",
+    "main.b80f3897.js.map": "/airplane-mode/static/js/main.b80f3897.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d215d301.css",
+    "static/js/main.b80f3897.js"
+  ]
+}
